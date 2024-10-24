@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2F4ams1MDJnYmszNDYwbmlrbWdrZDdxN3ZtbXRnZ2FobmgycngxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif">
+</p>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
